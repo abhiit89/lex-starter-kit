@@ -10,7 +10,7 @@
     "test:debug": "mocha --inspect --inspect-brk -t 10000 './{,!(node_modules)/**/}*.spec.js'"
   },
   "dependencies": {
-    "debug": "^2.6.8",
+    "debug": "^2.6.9",
     "moment": "^2.19.1",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
